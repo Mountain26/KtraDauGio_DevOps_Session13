@@ -1,0 +1,5 @@
+rootProject.name = "SS15_HW02_NguyenDinhSon_PTIT_HN_053"
+
+include("movie-booking-service")
+include("seat-allocation-service")
+include("payment-service")
